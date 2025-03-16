@@ -1,5 +1,5 @@
 // Learning C++ 
-// Exercise 00_03
+// Exercise 00_03 changed now
 // Using the exercise files on GitHub, by Eduardo Corpeño 
 
 #include <iostream>
@@ -12,7 +12,7 @@ int main(){
     std::cout << "Enter number 2: " << std::flush;
     std::cin >> num_2;
     
-    result = num_1 + num_2;
+    result = num_1 + num_2*1;
     
     std::cout << "The result of the addition is " << result << std::endl;
     
