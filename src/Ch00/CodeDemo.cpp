@@ -1,5 +1,6 @@
 // Learning C++ 
-// Exercise 00_03 changed now
+// Exercise 00_03 changed now now to add two numbers
+// This exercise is about adding two numbers and displaying the result
 // Using the exercise files on GitHub, by Eduardo Corpeño 
 
 #include <iostream>
